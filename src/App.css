@@ -1,0 +1,19 @@
+.nav-bar {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 1rem;
+
+}
+.nav-bar ul {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none;
+    text-decoration: none;
+}
+.layout-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
